@@ -26,7 +26,7 @@ require (
 	gocv.io/x/gocv v0.29.0
 	golang.org/x/image v0.0.0-20200430140353-33d19683fad8 // indirect
 	golang.org/x/net v0.0.0-20200625001655-4c5254603344 // indirect
-	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359 // indirect
-	golang.org/x/text v0.3.0 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/text v0.3.8 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20190709130402-674ba3eaed22 // indirect
 )
